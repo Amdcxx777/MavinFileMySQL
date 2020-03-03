@@ -1,0 +1,14 @@
+u,78,50,bid
+u,99,97,ask
+u,80,63,bid
+u,102,35,ask
+u,78,50,bid
+u,98,97,ask
+u,95,63,bid
+u,103,35,ask
+o,sell,42
+o,buy,30
+q,best_bid
+q,best_ask
+q,size,95
+q,size,92
